@@ -1,0 +1,22 @@
+{
+  "name": "ex5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "abdallah natsheh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mdbootstrap": "^4.19.2",
+    "mongoose": "^5.12.12",
+    "mongoose-id-validator": "^0.6.0",
+    "mongoose-timestamp": "^0.6.0",
+    "validator": "^13.6.0"
+  }
+}
