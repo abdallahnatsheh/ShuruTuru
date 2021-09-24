@@ -6,5 +6,5 @@ It is a service for travelling reservations .</br>
 Features : 
 creating a guide , create a trip with price ,duration , guide and special places to visit.
  
-Front-end :  bootstrap , Javascript , jquery , ajax , restfull api
+Front-end :  bootstrap , Javascript , jquery , ajax , restfull api </br>
 Back-end : Nodejs , MongoDB 
